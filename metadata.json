@@ -1,0 +1,5 @@
+{
+  "name": "Herramienta de Calibración de Velocidad",
+  "description": "Una aplicación para calibrar sistemas de medición de velocidad mediante la simulación de un objeto que se mueve a una velocidad y tamaño configurables a través de la pantalla.",
+  "requestFramePermissions": []
+}
